@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pranaav</h1>
 <h3 align="center">A passionate data science, data analytics and web development enthusiast from India</h3>
 
--  How to reach me **pranaav4455@gmail.com**
+-  How to reach me **pranaav2210205@ssn.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
